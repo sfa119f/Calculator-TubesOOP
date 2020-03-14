@@ -7,3 +7,13 @@ F:\Program\OOP\Calculator\obj\Debug\Calculator.Properties.Resources.resources
 F:\Program\OOP\Calculator\obj\Debug\Calculator.csproj.GenerateResource.cache
 F:\Program\OOP\Calculator\obj\Debug\Calculator.exe
 F:\Program\OOP\Calculator\obj\Debug\Calculator.pdb
+F:\Github\Calculator-TubesOOP\bin\Debug\Calculator.exe.config
+F:\Github\Calculator-TubesOOP\bin\Debug\Calculator.exe
+F:\Github\Calculator-TubesOOP\bin\Debug\Calculator.pdb
+F:\Github\Calculator-TubesOOP\obj\Debug\Calculator.csprojAssemblyReference.cache
+F:\Github\Calculator-TubesOOP\obj\Debug\Calculator.Properties.Resources.resources
+F:\Github\Calculator-TubesOOP\obj\Debug\Calculator.csproj.GenerateResource.cache
+F:\Github\Calculator-TubesOOP\obj\Debug\Calculator.exe
+F:\Github\Calculator-TubesOOP\obj\Debug\Calculator.pdb
+F:\Github\Calculator-TubesOOP\obj\Debug\Calculator.MainForm.resources
+F:\Github\Calculator-TubesOOP\obj\Debug\Calculator.StartForm.resources
