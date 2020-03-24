@@ -17,3 +17,44 @@ F:\Github\Calculator-TubesOOP\obj\Debug\Calculator.exe
 F:\Github\Calculator-TubesOOP\obj\Debug\Calculator.pdb
 F:\Github\Calculator-TubesOOP\obj\Debug\Calculator.MainForm.resources
 F:\Github\Calculator-TubesOOP\obj\Debug\Calculator.StartForm.resources
+C:\Users\RSP\Desktop\Desktop-akademik\sem.4\OOP\Tubes\Tubes1\Tubes1-OOP\Calculator\bin\Debug\Calculator.exe.config
+C:\Users\RSP\Desktop\Desktop-akademik\sem.4\OOP\Tubes\Tubes1\Tubes1-OOP\Calculator\bin\Debug\Calculator.exe
+C:\Users\RSP\Desktop\Desktop-akademik\sem.4\OOP\Tubes\Tubes1\Tubes1-OOP\Calculator\bin\Debug\Calculator.pdb
+C:\Users\RSP\Desktop\Desktop-akademik\sem.4\OOP\Tubes\Tubes1\Tubes1-OOP\Calculator\obj\Debug\Calculator.csprojAssemblyReference.cache
+C:\Users\RSP\Desktop\Desktop-akademik\sem.4\OOP\Tubes\Tubes1\Tubes1-OOP\Calculator\obj\Debug\Calculator.MainForm.resources
+C:\Users\RSP\Desktop\Desktop-akademik\sem.4\OOP\Tubes\Tubes1\Tubes1-OOP\Calculator\obj\Debug\Calculator.StartForm.resources
+C:\Users\RSP\Desktop\Desktop-akademik\sem.4\OOP\Tubes\Tubes1\Tubes1-OOP\Calculator\obj\Debug\Calculator.Properties.Resources.resources
+C:\Users\RSP\Desktop\Desktop-akademik\sem.4\OOP\Tubes\Tubes1\Tubes1-OOP\Calculator\obj\Debug\Calculator.csproj.GenerateResource.cache
+C:\Users\RSP\Desktop\Desktop-akademik\sem.4\OOP\Tubes\Tubes1\Tubes1-OOP\Calculator\obj\Debug\Calculator.exe
+C:\Users\RSP\Desktop\Desktop-akademik\sem.4\OOP\Tubes\Tubes1\Tubes1-OOP\Calculator\obj\Debug\Calculator.pdb
+F:\Github\Tubes1-OOP\Calculator\bin\Debug\Calculator.exe.config
+F:\Github\Tubes1-OOP\Calculator\bin\Debug\Calculator.exe
+F:\Github\Tubes1-OOP\Calculator\bin\Debug\Calculator.pdb
+F:\Github\Tubes1-OOP\Calculator\obj\Debug\Calculator.csprojAssemblyReference.cache
+F:\Github\Tubes1-OOP\Calculator\obj\Debug\Calculator.MainForm.resources
+F:\Github\Tubes1-OOP\Calculator\obj\Debug\Calculator.StartForm.resources
+F:\Github\Tubes1-OOP\Calculator\obj\Debug\Calculator.Properties.Resources.resources
+F:\Github\Tubes1-OOP\Calculator\obj\Debug\Calculator.csproj.GenerateResource.cache
+F:\Github\Tubes1-OOP\Calculator\obj\Debug\Calculator.exe
+F:\Github\Tubes1-OOP\Calculator\obj\Debug\Calculator.pdb
+C:\Users\Yahya\Source\Repos\Tubes1-OOP\Calculator\obj\Debug\Calculator.csprojAssemblyReference.cache
+C:\Users\Yahya\Source\Repos\Tubes1-OOP\Calculator\obj\Debug\Calculator.MainForm.resources
+C:\Users\Yahya\Source\Repos\Tubes1-OOP\Calculator\obj\Debug\Calculator.StartForm.resources
+C:\Users\Yahya\Source\Repos\Tubes1-OOP\Calculator\obj\Debug\Calculator.Properties.Resources.resources
+C:\Users\Yahya\Source\Repos\Tubes1-OOP\Calculator\obj\Debug\Calculator.csproj.GenerateResource.cache
+C:\Users\Yahya\Source\Repos\Tubes1-OOP\Calculator\obj\Debug\Calculator.exe
+C:\Users\Yahya\Source\Repos\Tubes1-OOP\Calculator\obj\Debug\Calculator.pdb
+C:\Users\Yahya\Source\Repos\Tubes1-OOP\Calculator\bin\Debug\Calculator.exe.config
+C:\Users\Yahya\Source\Repos\Tubes1-OOP\Calculator\bin\Debug\Calculator.exe
+C:\Users\Yahya\Source\Repos\Tubes1-OOP\Calculator\bin\Debug\Calculator.pdb
+C:\Users\RSP\Desktop\Desktop-akademik\sem.4\OOP\Tubes\Tubes1\Tubes1-OOP\Calculator\obj\Debug\Calculator.csproj.CoreCompileInputs.cache
+D:\Semester 4\OOP\Tubes 1\Tubes1-OOP\Calculator\bin\Debug\Calculator.exe.config
+D:\Semester 4\OOP\Tubes 1\Tubes1-OOP\Calculator\bin\Debug\Calculator.exe
+D:\Semester 4\OOP\Tubes 1\Tubes1-OOP\Calculator\bin\Debug\Calculator.pdb
+D:\Semester 4\OOP\Tubes 1\Tubes1-OOP\Calculator\obj\Debug\Calculator.csprojAssemblyReference.cache
+D:\Semester 4\OOP\Tubes 1\Tubes1-OOP\Calculator\obj\Debug\Calculator.MainForm.resources
+D:\Semester 4\OOP\Tubes 1\Tubes1-OOP\Calculator\obj\Debug\Calculator.StartForm.resources
+D:\Semester 4\OOP\Tubes 1\Tubes1-OOP\Calculator\obj\Debug\Calculator.Properties.Resources.resources
+D:\Semester 4\OOP\Tubes 1\Tubes1-OOP\Calculator\obj\Debug\Calculator.csproj.GenerateResource.cache
+D:\Semester 4\OOP\Tubes 1\Tubes1-OOP\Calculator\obj\Debug\Calculator.exe
+D:\Semester 4\OOP\Tubes 1\Tubes1-OOP\Calculator\obj\Debug\Calculator.pdb

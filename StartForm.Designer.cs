@@ -43,6 +43,7 @@
             this.BackGround.SizeMode = System.Windows.Forms.PictureBoxSizeMode.StretchImage;
             this.BackGround.TabIndex = 0;
             this.BackGround.TabStop = false;
+            this.BackGround.Click += new System.EventHandler(this.BackGround_Click);
             // 
             // ProgressBar
             // 

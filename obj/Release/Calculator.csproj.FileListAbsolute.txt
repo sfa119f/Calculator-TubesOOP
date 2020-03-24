@@ -1,0 +1,11 @@
+C:\Users\RSP\Desktop\Desktop-akademik\sem.4\OOP\Tubes\Tubes1\Tubes1-OOP\Calculator\bin\Release\Calculator.exe.config
+C:\Users\RSP\Desktop\Desktop-akademik\sem.4\OOP\Tubes\Tubes1\Tubes1-OOP\Calculator\bin\Release\Calculator.exe
+C:\Users\RSP\Desktop\Desktop-akademik\sem.4\OOP\Tubes\Tubes1\Tubes1-OOP\Calculator\bin\Release\Calculator.pdb
+C:\Users\RSP\Desktop\Desktop-akademik\sem.4\OOP\Tubes\Tubes1\Tubes1-OOP\Calculator\obj\Release\Calculator.csprojAssemblyReference.cache
+C:\Users\RSP\Desktop\Desktop-akademik\sem.4\OOP\Tubes\Tubes1\Tubes1-OOP\Calculator\obj\Release\Calculator.MainForm.resources
+C:\Users\RSP\Desktop\Desktop-akademik\sem.4\OOP\Tubes\Tubes1\Tubes1-OOP\Calculator\obj\Release\Calculator.StartForm.resources
+C:\Users\RSP\Desktop\Desktop-akademik\sem.4\OOP\Tubes\Tubes1\Tubes1-OOP\Calculator\obj\Release\Calculator.Properties.Resources.resources
+C:\Users\RSP\Desktop\Desktop-akademik\sem.4\OOP\Tubes\Tubes1\Tubes1-OOP\Calculator\obj\Release\Calculator.csproj.GenerateResource.cache
+C:\Users\RSP\Desktop\Desktop-akademik\sem.4\OOP\Tubes\Tubes1\Tubes1-OOP\Calculator\obj\Release\Calculator.csproj.CoreCompileInputs.cache
+C:\Users\RSP\Desktop\Desktop-akademik\sem.4\OOP\Tubes\Tubes1\Tubes1-OOP\Calculator\obj\Release\Calculator.exe
+C:\Users\RSP\Desktop\Desktop-akademik\sem.4\OOP\Tubes\Tubes1\Tubes1-OOP\Calculator\obj\Release\Calculator.pdb
